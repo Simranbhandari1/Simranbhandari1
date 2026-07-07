@@ -52,7 +52,7 @@
 
 ## 💼 Experience
 
-### Full Stack Developer Intern | PENNEP
+### Full Stack Developer | PENNEP
 **October 2025 – March 2026**
 
 - Built responsive UI using **Next.js, TypeScript, and ShadCN UI**
@@ -62,7 +62,7 @@
 
 ---
 
-### Web Development Intern | PENNEP
+### Web Development Intern| PENNEP
 **June 2025 – July 2025**
 
 - Developed **GymQuest**, a full-stack fitness application
